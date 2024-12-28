@@ -1,0 +1,36 @@
+Fuel Type,Energy Source Code,Energy Source Description
+Coal,ANT,Anthracite Coal
+Coal,BIT,Bituminous Coal
+Coal,LIG,Lignite Coal
+Coal,SUB,Subbituminous Coal
+Coal,WC,Waste/Other Coal
+Coal,RC,Refined Coal
+Petroleum Products,DFO,Distillate Fuel Oil
+Petroleum Products,JF,Jet Fuel
+Petroleum Products,KER,Kerosene
+Petroleum Products,PC,Petroleum Coke
+Petroleum Products,RFO,Residual Fuel Oil
+Natural Gas and Other Gases,NG,Natural Gas
+Natural Gas and Other Gases,OG,Other Gas
+Natural Gas and Other Gases,PG,Gaseous Propane
+Natural Gas and Other Gases,SG,Synthetic Gas
+Natural Gas and Other Gases,SGC,Coal-Derived Synthetic Gas
+Natural Gas and Other Gases,BFG,Blast Furnace Gas
+Renewable Fuels,AB,Agricultural By-Products
+Renewable Fuels,MSW,Municipal Solid Waste
+Renewable Fuels,OBS,Other Biomass Solids
+Renewable Fuels,WDS,Wood/Wood Waste Solids
+Renewable Fuels,SLW,Sludge Waste
+Renewable Fuels,BLQ,Black Liquor
+Renewable Fuels,WDL,Wood Waste Liquids
+Renewable Fuels,OBG,Other Biomass Gas
+Renewable Fuels,LFG,Landfill Gas
+Renewable Fuels,SUN,Solar
+Renewable Fuels,WND,Wind
+Renewable Fuels,GEO,Geothermal
+Renewable Fuels,WAT,Water
+All Other Fuels,TDF,Tire-Derived Fuels
+All Other Fuels,NUC,Nuclear
+All Other Fuels,PUR,Purchased Steam
+All Other Fuels,WH,Waste Heat
+All Other Fuels,OTH,Other

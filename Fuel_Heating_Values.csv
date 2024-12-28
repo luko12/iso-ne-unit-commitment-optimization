@@ -1,0 +1,6 @@
+Fuel Type,Energy Source Code,Unit Label,MMBtu Lower,MMBtu Upper
+Coal,ANT,Tons,22,28
+Petroleum,DFO,Barrels,5.5,6.2
+Natural Gas,NG,Mcf,0.07,0.12
+Renewable Fuels,MSW,Tons,7,18
+Other Fuels,WAT,N/A,0,0
